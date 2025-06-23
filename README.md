@@ -1,11 +1,10 @@
 
 This Project will show you a working example of:
 1.Glue to identify data structure and create catalog of data files in S3 source bucket.
+
 2.query data in Athena using Data Catalog to capture CDC in another s3 target bucket.
+
 3.Step 2 is all writting in AWS airflow (MWAA) via DBT (jinja)
-
-
-
 
 ![Computer](flow_diagram_better.png)
 
