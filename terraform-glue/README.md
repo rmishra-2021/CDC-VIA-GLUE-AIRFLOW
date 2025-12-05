@@ -1,5 +1,6 @@
 
 Steps:
+
 1. terraform apply -auto-approve 
 
 2. aws s3 cp . s3://testrawdata --recursive 
