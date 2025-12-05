@@ -1,4 +1,4 @@
 
-make sure in Athena, workgroup property "Override client-side settings" should be false
+Make sure in Athena, the workgroup property "Override client-side settings" should be false
 
 
